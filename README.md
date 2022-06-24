@@ -1,2 +1,2 @@
-# introToJava
-javascript code that prints out your name, height, and country on the screen
+please see link to introToJava below
+https://jemvaris.github.io/introToJava/
